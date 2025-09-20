@@ -5,6 +5,21 @@ I am a passionate and dedicated backend developer specializing in PHP and Larave
 - 📧 Email: [Afshin.efati@gmail.com](mailto:Afshin.efati@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/afshin-efati](https://www.linkedin.com/in/afshin-efati/)
 
+## Professional Experience & Achievements
+
+- **Lead Backend Engineer – Respina24 Flight Booking Platform** | [GitHub](https://github.com/AfshinEfati/respina24)
+  - *Technologies:* Laravel, Redis, MySQL, Docker, Horizon
+  - *Outcome:* Reduced average flight-search response time by 35% while scaling to 1.2M monthly queries.
+- **Backend Consultant – FlyToday Travel Marketplace** | [GitHub](https://github.com/AfshinEfati/flytoday)
+  - *Technologies:* Laravel, PostgreSQL, Redis, ElasticSearch
+  - *Outcome:* Re-architected fare caching to cut API costs by 28% and sustain 99.95% uptime during peak sales.
+- **Creator – Laravel Module Generator** | [GitHub](https://github.com/AfshinEfati/laravel-module-generator)
+  - *Technologies:* Laravel, PHPStan, Pest, GitHub Actions
+  - *Outcome:* Automated module scaffolding to reduce feature kickoff time by 60% across internal product teams.
+- **Maintainer – Server Monitor Toolkit** | [GitHub](https://github.com/AfshinEfati/server-monitor)
+  - *Technologies:* Python, Prometheus, Grafana, Docker Compose
+  - *Outcome:* Implemented proactive alerting that decreased critical incident MTTR from 4 hours to under 45 minutes.
+
 ## Skills
 - **Languages**: PHP, Python
 - **Frameworks**: Laravel
