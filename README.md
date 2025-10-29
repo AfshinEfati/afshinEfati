@@ -1,6 +1,7 @@
 # 💫 About Me:
 
 I am a passionate and dedicated backend developer specializing in PHP and Laravel. With a strong foundation in Linux server management, Docker, Git, MySQL, PostgreSQL, Nginx, Apache, and Python, I am committed to delivering high-quality and efficient solutions.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AfshinEfati&label=Profile%20views&color=0e75b6&style=flat" alt="aliebrahimpour" /> </p>
 
 - 📧 Email: [Afshin.efati@gmail.com](mailto:Afshin.efati@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/afshin-efati](https://www.linkedin.com/in/afshin-efati/)
