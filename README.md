@@ -32,38 +32,14 @@ I am a passionate and dedicated backend developer specializing in PHP and Larave
 
 ## 🌐 Socials:
 
-### شبکه‌های حرفه‌ای
 - 🔗 [LinkedIn](https://www.linkedin.com/in/afshin-efati/)
 - 🐙 [GitHub](https://github.com/AfshinEfati)
 - 💡 [Stack Overflow](https://stackoverflow.com/users/EfatiAfshin)
-
-### شبکه‌های عمومی
 - 📸 [Instagram](https://instagram.com/EfatiAfshin)
 - 🎥 [YouTube](https://youtube.com/@EfatiAfshin)
 - 🎵 [TikTok](https://tiktok.com/@EfatiAfshin)
 - ✖️ [X (Twitter)](https://x.com/EfatiAfshin)
 
-## ⭐ Featured Projects
-
-### [Server Monitor Dashboard](https://github.com/AfshinEfati/server-monitor)
-
-یک داشبورد تحت وب برای پایش لحظه‌ای سلامت سرورها طراحی کردم تا تیم زیرساخت به‌جای ورود به هر ماشین، وضعیت منابع را در یک نما ببیند. معماری بک‌اند FastAPI، عامل سبک روی سرورها و داشبورد Nuxt/Tailwind را از صفر طراحی و پیاده‌سازی کردم. خروجی این پروژه کاهش خطاهای انسانی و دسترس‌پذیری آمار حیاتی در بازه‌های ۵ ثانیه‌ای بود.
-
-**Tech:** FastAPI, Nuxt 3, TailwindCSS, Vue ECharts
-
-### [Laravel Module Generator](https://github.com/AfshinEfati/laravel-module-generator)
-
-برای پروژه‌های بزرگ لاراولی تیم، ساخت ماژول‌های تکراری زمان زیادی می‌گرفت. یک پکیج Artisan نوشتم که با یک دستور، مدل، سرویس، ریپازیتوری، DTO، کنترلر و تست‌ها را بسازد و به‌صورت خودکار در سرویس‌پراوایدر ثبت کند. نتیجه این شد که زمان راه‌اندازی ماژول‌های جدید به چند دقیقه کاهش یافت و ساختار پروژه‌ها یک‌دست شد.
-
-**Tech:** Laravel 10, PHP 8.1, Artisan, PHPUnit
-
-### [LinkedIn Auto Poster Bot](https://github.com/AfshinEfati/linkedin-bot)
-
-![LinkedIn Bot flow](https://raw.githubusercontent.com/AfshinEfati/linkedin-bot/main/post-failed.png)
-
-مدیریت محتوای لینکدین شرکت نیاز به اتوماسیون داشت تا از جریان‌های n8n تغذیه شود. فلوهای n8n را با اسکریپت Puppeteer ترکیب کردم تا ورود، انتخاب صفحه شرکت و انتشار پست‌ها بدون دخالت دست انجام شود؛ خطاهای احتمالی هم با اسکرین‌شات گزارش می‌شوند. این راهکار انتشار منظم محتوا را تضمین کرد و قابلیت توسعه برای چند اکانت را مهیا ساخت.
-
-**Tech:** Node.js, Puppeteer, n8n, Chromium
 
 
 # 💻 Tech Stack:
