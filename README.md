@@ -1,51 +1,46 @@
 # Afshin Efati
 
-### Backend & DevOps Engineer
+### Backend Engineer — PHP / Laravel
 
-**PHP · Laravel · Linux · Docker · Redis · MySQL · PostgreSQL · Nginx**
+I build production-oriented backend systems, REST APIs, third-party integrations, asynchronous workflows, and reliable background processing with Laravel.
 
-I build production-oriented backend systems, APIs, integrations, automation tools, and Docker-based development/deployment environments.
+My main focus is backend engineering. I also work hands-on with **Linux, Docker, Nginx, Redis, MySQL/PostgreSQL, CI/CD, and server environments**, and use **Python** for automation, data collection, and backend utilities.
 
-**Open to remote contract, freelance, and long-term collaboration.**  
-**远程合作 / 长期兼职 / 项目外包均可。**
+**Open to full-time remote roles and long-term contracts.**
 
 ---
 
-## Featured Work
-
-### [Laravel Scaffolder](https://github.com/AfshinEfati/Laravel-Scaffolder)
-A Laravel package that generates complete feature stacks from Artisan commands, including repositories, services, DTOs, actions, policies, controllers, form requests, API resources, tests, and OpenAPI documentation.
-
-`PHP` `Laravel` `Package Development` `Repository Pattern` `DTO` `OpenAPI`
+## Selected Work
 
 ### [Flight Aggregator Demo](https://github.com/AfshinEfati/FlightAggregatorDemo)
-A Laravel backend that polls multiple flight suppliers asynchronously, normalizes their responses, caches results, and exposes a unified API.
+Production-oriented Laravel backend for aggregating multiple flight suppliers behind a unified API. It uses supplier adapters, DTO normalization, queues, retry/backoff, Redis caching, transactional synchronization, events, Docker, Nginx, Supervisor, OpenAPI, automated tests, and GitHub Actions CI.
 
-`Laravel` `REST API` `Adapter Pattern` `Queues` `Redis` `MySQL` `Docker` `Nginx`
+`PHP` `Laravel` `REST API` `Queues` `Redis` `MySQL` `Docker` `Nginx` `OpenAPI` `CI`
+
+### [Laravel Scaffolder](https://github.com/AfshinEfati/Laravel-Scaffolder)
+Open-source Laravel package that generates complete feature stacks from Artisan commands, including repositories, services, DTOs, actions, policies, controllers, form requests, API resources, tests, providers, and OpenAPI documentation.
+
+`PHP` `Laravel` `Package Development` `Developer Tooling` `Repository Pattern` `DTO` `OpenAPI`
 
 ### [Dockavel](https://github.com/AfshinEfati/dockavel)
-A Docker-based multi-project development stack for Laravel and Node.js applications with PHP-FPM, Nginx, MySQL, Redis, and Traefik.
+Docker-based multi-project development environment for Laravel and Node.js applications with PHP-FPM, Nginx, MySQL, Redis, Traefik, local domain routing, and a Linux-friendly development workflow.
 
 `Docker` `Linux` `Nginx` `Traefik` `PHP-FPM` `Redis` `MySQL`
-
-### [Laravel Payment Gateway](https://github.com/AfshinEfati/payment-gateway)
-A reusable Laravel package for integrating multiple payment gateways through a consistent API, DTOs, configurable models, and gateway-specific implementations.
-
-`PHP` `Laravel` `Package Development` `DTO` `API Integration`
 
 ---
 
 ## Engineering Focus
 
-- **Backend:** PHP, Laravel, REST APIs, third-party integrations, queues, caching, background jobs
-- **Infrastructure:** Linux, Docker, Docker Compose, Nginx, Apache, CI/CD
+- **Backend:** PHP, Laravel, REST APIs, third-party integrations, background jobs, queues, caching
+- **Architecture:** adapters, DTOs, services, repositories, events, modular application design, transactional workflows
 - **Data:** MySQL, PostgreSQL, Redis
-- **Architecture:** service/repository patterns, DTOs, adapters, events, modular application design
-- **Also working with:** Python for automation and data collection
+- **Infrastructure:** Linux, Docker, Docker Compose, Nginx, Apache, CI/CD, server deployment and troubleshooting
+- **Quality:** automated testing, API documentation, failure handling, logging, maintainable code
+- **Additional:** Python for automation, data collection, scripting, and backend utilities
 
-## Open Source
+## What I Enjoy Building
 
-I maintain Laravel packages and build reusable developer tooling. I am especially interested in backend architecture, infrastructure automation, API integrations, and improving developer experience.
+I am especially interested in backend systems where reliability and architecture matter: API integrations, asynchronous processing, workflow-heavy applications, reusable developer tooling, and infrastructure that makes applications easier to develop and operate.
 
 ## Contact
 
