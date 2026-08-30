@@ -13,7 +13,7 @@ My main focus is backend engineering. I also work hands-on with **Linux, Docker,
 ## Selected Work
 
 ### [Flight Aggregator Demo](https://github.com/AfshinEfati/FlightAggregatorDemo)
-Production-oriented Laravel backend for aggregating multiple flight suppliers behind a unified API. It uses supplier adapters, DTO normalization, queues, retry/backoff, Redis caching, transactional synchronization, events, Docker, Nginx, Supervisor, OpenAPI, automated tests, and GitHub Actions CI.
+Production-oriented Laravel backend for aggregating multiple flight suppliers behind a unified API. It uses supplier adapters, DTO normalization, queues, retry/backoff, Redis caching, transactional synchronization, events, Docker, Nginx, OpenAPI, automated tests, and GitHub Actions CI.
 
 `PHP` `Laravel` `REST API` `Queues` `Redis` `MySQL` `Docker` `Nginx` `OpenAPI` `CI`
 
@@ -23,9 +23,9 @@ Open-source Laravel package that generates complete feature stacks from Artisan 
 `PHP` `Laravel` `Package Development` `Developer Tooling` `Repository Pattern` `DTO` `OpenAPI`
 
 ### [Dockavel](https://github.com/AfshinEfati/dockavel)
-Docker-based multi-project development environment for Laravel and Node.js applications with PHP-FPM, Nginx, MySQL, Redis, Traefik, local domain routing, and a Linux-friendly development workflow.
+Docker-based multi-project development environment for Laravel and Node.js applications with PHP 8.2/8.5, Node.js 24, PHP-FPM, Nginx, MySQL, Redis, Supervisor, local domain routing, UID/GID mapping, and GitHub Actions CI.
 
-`Docker` `Linux` `Nginx` `Traefik` `PHP-FPM` `Redis` `MySQL`
+`Docker` `Laravel` `Node.js` `PHP-FPM` `Nginx` `Supervisor` `Redis` `MySQL` `CI`
 
 ---
 
